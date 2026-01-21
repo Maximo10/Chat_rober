@@ -57,6 +57,7 @@ Permite que múltiples usuarios se conecten al mismo tiempo, envíen y reciban m
 ---
 
 ## Estructura del Proyecto
+```
 com.example.chat_rober/
 │
 ├── HelloApplication.java              # Clase principal que lanza la interfaz
@@ -65,7 +66,7 @@ com.example.chat_rober/
 ├── EchoServerMultihilo.java           # Servidor multihilo que gestiona los clientes
 ├── ManejadorClienteMultihilo.java     # Hilo que maneja la comunicación de un cliente
 └── hello-view.fxml                    # Interfaz de usuario (JavaFX)
-
+```
 ## Cómo Ejecutar
 
 ### Servidor
